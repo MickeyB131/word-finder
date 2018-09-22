@@ -1,4 +1,4 @@
-# word-finder
+# wordfinder
 Instructions:
 1. clone the repository
 2. cd wordfinder
